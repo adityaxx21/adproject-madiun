@@ -1,0 +1,3 @@
+<?php $data = ['Nomor Pelayanan', 'Tanggal Pelayanan', 'Tgl. Selesai (Perkiraan)', 'Jenis Pelayanan', 'NOP', 'Nama Pemohon', 'NOP', 'Nama Pemohon', 'Alamat Pemohon', 'Letak Objek Pajak', 'Kelurahan', 'Kecamatan', 'Keterangan', 'Dokumen Dilampirkan', 'Catatan', 'NOP', 'Nomor Pelayanan', 'Tanggal Pelayanan', 'Tgl. Selesai (Perkiraan)', 'Petugas Penerima Berkas', 'Urusan', 'Catatan'] ?>
+<?php $use = ['Pengajuan Permohonan', 'Surat Kuasa', 'Fotokopi KTP', 'Asli/Fotokopi *) SPPT', 'Asli/Fotokopi *) STPD', 'Asli/Fotokopi *) SKPD', 'Fotokopi IMB', ' Fotokopi Sertifikat Tanah', 'Fotokopi Ak. Jual Beli/Hibah', 'Asli/Fotokopi *) Tanda 
+Bukti Pembayaran', 'Fotokopi SK Pengurangan', 'Fotokopi SK Keberatan', 'Fotokopi SKKPP', 'Lain-Lain'] ?>

@@ -1,0 +1,33 @@
+awal page
+login.php
+
+main page
+Navbar
+    hamburger
+    user
+        login
+sidebar
+    Perpajakan
+        Pendataan Objek Pajak 
+        Penetapan Wajin Pajak
+        Penilaian Objek Pajak
+    SPOP
+        Penundaan Pengembalian SPOP
+        Penerbitan Surat Teguran Pengembalian SPOP
+    Penerbitan SPPT 
+    Penerbitan SKPD
+    Penerbitan Surat Keterangan NJOP
+    Pembayaran PBB Perkotaan 
+    Penentuan Kembali Tanggal Jatuh Tempo
+    Pemberian Angsuran atau Penundaan Pembayaran PBB Perkotaan
+    Penyelenggaraan Penatausahaan dan Pelaporan Penerimaan PBB Perkotaan
+    Penerbitan STPD
+    Penagihan PBB Perkotaan
+    Pengajuan Keberatan PBB Perkotaan
+    Pembetulan dan Pembatalan SPPT, SKPD, dan STPD yang Tidak Benar 
+    Pengurangan PBB Perkotaan 
+    Pengurangan dan Penghapusan Sanksi Administrasi PBB Perkotaan
+    Pengajuan dan Penyelesaian Permohonan Pengembalian Kelebihan Pembayaran PBB Perkotaan
+    Pemberian Imbalan Bunga PBB Perkotaan
+    Penghapusan Piutang PBB Perkotaan yang Sudah Kedaluarsa
+    Pemeriksaan PBB Perkotaan 
